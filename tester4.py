@@ -6,8 +6,6 @@
 # This test-driver program invokes methods on the class to be
 # completed for the assignment.
 #
-# The content of tester4.py must not be modified. It will be used
-# when evaluating your solution to process_cal4.py.
 #
 
 import sys
